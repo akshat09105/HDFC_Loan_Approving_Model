@@ -75,3 +75,6 @@ The HDFC Loan Approving Model provides a reliable, data-driven solution for loan
 
 ## 👤 Author
 Akshat Gupta
+Mohak Sharma
+Jasmine Kaur
+Manav Kaushik
